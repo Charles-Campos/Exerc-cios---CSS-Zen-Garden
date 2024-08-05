@@ -1,0 +1,14 @@
+/* Color Theme Swatches in Hex */
+.fonte { color: #57493b; }
+.backgroud { color: #F2E4BB; }
+.destaque { color: #be7520; }
+.Old-vintage-paper-with-a-glowing-center-and-grunge-vignette.-3-hex { color: #F2E2CE; }
+.Old-vintage-paper-with-a-glowing-center-and-grunge-vignette.-4-hex { color: #F2ECE4; }
+
+html {
+    background: #F2E4BB;
+    color: #594A3C;
+
+}
+
+
